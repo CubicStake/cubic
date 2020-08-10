@@ -1,0 +1,5 @@
+cubic-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/cubic-qt.desktop usr/share/applications
+debian/cubic-qt.protocol usr/share/kde4/services/

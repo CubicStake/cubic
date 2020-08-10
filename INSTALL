@@ -1,0 +1,9 @@
+Building Cubic
+
+See doc/readme-qt.rst for instructions on building Cubic QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Cubic.
+
+See doc/build-*.txt for instructions on building cubicd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Cubic.
